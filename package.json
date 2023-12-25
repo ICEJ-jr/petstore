@@ -1,0 +1,26 @@
+{
+  "name": "petstore-api-spec",
+  "version": "0.0.0",
+  "description": "Isaac Johnnson's Implementation of Swagger's Petstore API Spec",
+  "main": "openapi.yaml",
+  "scripts": {
+ 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ICEJ-jr/petstore-api-spec.git"
+  },
+  "keywords": [
+    "petstore",
+    "swagger",
+    "openapi",
+    "rest",
+    "redoc"
+  ],
+  "author": "Isaac Johnson",
+  "license": "CC-BY-NC-1.0",
+  "bugs": {
+    "url": "https://github.com/ICEJ-jr/petstore-api-spec/issues"
+  },
+  "homepage": "https://github.com/ICEJ-jr/petstore-api-spec#readme"
+}

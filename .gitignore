@@ -1,0 +1,16 @@
+data/
+*.txt
+*.pem
+Dockerfile
+*template
+
+# vscode
+.vscode/ 
+
+# node
+node_modules/
+
+# Environments
+.env
+*.env
+env/
